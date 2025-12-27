@@ -5,7 +5,7 @@ This repository contains multiple PL mini projects demonstrating the programmin 
 - cargo.
 
 ### Lexical Analyzer - 
-📁 [View Project](./Project%201)
+📁 [View Project](./PROJECT%201)
 
 ##### This project is about a Lexical Analyzer able yo recognize the tokens from the input into categories like keywords, operators, punctuations, Integer literals, identifiers, Unknown tokens. It is implemented in Ocaml.
 
@@ -68,7 +68,7 @@ let () =
 ##### As given in the assignment i have tested the two testcase along with two other examples. i have attached the screenshots pdf of the output we got in the ocaml along with this readme file. 
 
 ### LL Parser -
-📁 [View Project](./Project%202)
+📁 [View Project](./PROJECT%202)
 
 This project implements an LL Parser using Rust to process user input and generate the corresponding parsed output. The parser accepts expressions at runtime and analyzes them based on defined parsing logic.
 
@@ -99,7 +99,7 @@ Test cases provided in the assignment
 Additional custom input examples
 
 ### Cargo -
-📁 [View Project](./Project%203)
+📁 [View Project](./PROJECT%203)
 
 ### 1. How to compile and run - 
 #### Rust and Cargo are installed and they are checked whether they are sucessfully installed are or not by using these functions "rustc --version" and "cargo --version".
